@@ -1,0 +1,5 @@
+{
+  "name": "GEO Auditor Agent",
+  "description": "A GenAI-powered brand visibility auditor that analyzes search engine results to determine brand presence and sentiment using Tavily and Gemini.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,5 @@
+{
+  "name": "GEO Comparative Agent",
+  "description": "A Generative Engine Optimization (GEO) tool that compares your website against a competitor to analyze AI-readability and optimization.",
+  "requestFramePermissions": []
+}

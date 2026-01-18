@@ -1,0 +1,5 @@
+{
+  "name": "GEO Fact-Checker Agent",
+  "description": "A diagnostic tool that detects AI hallucinations by comparing generated answers against ground truth from a specific official website.",
+  "requestFramePermissions": []
+}
