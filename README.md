@@ -41,3 +41,8 @@ Each agent functions as a self-contained module within the larger application.
 - **Tailwind CSS**: Styling (via CDN for compatibility).
 - **Lucide React**: Icons.
 - **Google GenAI SDK**: For AI features.
+
+## Contributors
+
+- [@Kevin1289](https://github.com/Kevin1289)
+- [@cynikjinchen](https://github.com/cynikjinchen)
